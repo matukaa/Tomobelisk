@@ -1,6 +1,6 @@
 Across the Obelisk mod that allows changing decisions made on the map and in events during multiplayer sessions.
 
-Requires BepInEx, uses Harmony to patch codes.
+Requires BepInEx, uses Harmony to patch code.
 
 Install: compile and place .dll into BepInEx/plugins/
 
