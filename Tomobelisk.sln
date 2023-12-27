@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomobelisk", "Tomobelisk\Tomobelisk.csproj", "{B1364840-E2CE-490D-9442-FF0629FB3B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1364840-E2CE-490D-9442-FF0629FB3B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1364840-E2CE-490D-9442-FF0629FB3B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1364840-E2CE-490D-9442-FF0629FB3B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1364840-E2CE-490D-9442-FF0629FB3B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6943F10A-399F-4E27-BFEE-A8AF82B818AE}
+	EndGlobalSection
+EndGlobal
